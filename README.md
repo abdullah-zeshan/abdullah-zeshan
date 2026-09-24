@@ -18,3 +18,11 @@ Computer Science student (starting BS at Iqra University, Oct 2026) based in Kar
 - [Portfolio](https://abdullahzeshan.site) · [code](https://github.com/abdullah-zeshan/abdullahzeshan.site) — my personal site and blog
 
 Always open to connect, collaborate, or talk about what I'm building.
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-zeshan/abdullah-zeshan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullah-zeshan/abdullah-zeshan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdullah-zeshan/abdullah-zeshan/output/github-contribution-grid-snake.svg">
+</picture>
+
