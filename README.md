@@ -24,4 +24,9 @@ Always open to connect, collaborate, or talk about what I'm building.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullah-zeshan/abdullah-zeshan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdullah-zeshan/abdullah-zeshan/output/github-contribution-grid-snake.svg">
 </picture>
+<div align="center">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=abdullah-zeshan&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
+
+</div>
 
