@@ -14,6 +14,10 @@ Computer Science student (starting BS at Iqra University, Oct 2026) based in Kar
   <a href="https://www.linkedin.com/in/abdullah-zeshan1/"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,vercel,python,html,css,js,linkedin" /></a>
 </p>
 
+## GitHub Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=abdullah-zeshan&rank_icon=github&include_all_commits=true&hide_border=false&bg_color=0f172a&title_color=06b6d4&text_color=e2e8f0&icon_color=0ea5e9&border_color=1e293b)](https://github-stats-extended.vercel.app/api?username=abdullah-zeshan)
+
 ## 🚀 Projects
 
 - [Home Guardian](https://home-guardian.vercel.app/) · [code](https://github.com/abdullah-zeshan/home-guardian) — upload a home inspection report, get it sorted into what's urgent and what can wait
