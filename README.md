@@ -11,7 +11,8 @@ Computer Science student (starting BS at Iqra University, Oct 2026) based in Kar
 ## 🛠️ Languages and Tools
 
 <p>
-  <a href="https://www.linkedin.com/in/abdullah-zeshan1/"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,vercel,python,html,css,js,linkedin" /></a>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,vercel,python,html,css,js" />
+  <a href="https://www.linkedin.com/in/abdullah-zeshan1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ## GitHub Stats
